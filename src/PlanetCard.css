@@ -1,0 +1,75 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Lato", sans-serif;
+  }
+
+  body{
+    /* background-repeat: no-repeat;
+    background-size:cover; */
+    background-image: url("C:\Users\Admin\OneDrive\Desktop\Star\star_wars_planets\public\Images\Milkeyway.gif");
+    overflow-x: hidden;
+  }
+  .container{
+    margin-top: 10rem;
+  }
+  
+  .card {
+    padding: 30px;
+    position: relative;
+    z-index: 1;
+    margin-top: 5rem;
+  }
+  
+  .card-body {
+    display: inline-block;
+    background-color: #00d084;
+    background:linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);
+
+    text-align: center;
+  }
+
+  .card-body .card-name{
+    color: #ff6900;
+    align-items: center;
+    text-align: center;
+  }
+  .card-body h1{
+    line-height: 100px;
+    font-size: 3rem;
+  }
+
+  .card-body p{
+    font-size: 20px;
+    line-height: 25px;
+    color: #fff;
+  }
+
+  .card-body span{
+    width: 25rem;
+  }
+  .card-body strong{
+    color: rgb(5, 27, 94);
+  }
+  .card-body .resident-list{
+    /* color: #fff; */
+    color: rgb(5, 27, 94);
+
+  }
+
+  .residents{
+    /* margin-left: 10px; */
+    display: inline-block;
+  }
+  .residents p{
+    margin-right: 10px;
+    width: 18rem;
+    background-color: #eb4672;
+    height: 3rem;
+    padding: 10px;
+    border-radius: 10px;
+    box-shadow: 2px 2px 5px #eb4672;
+    background:linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);
+
+  }
