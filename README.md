@@ -7,9 +7,6 @@ Welcome to Star Wars Planets! This application allows you to explore information
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [How to Run](#how-to-run)
-- [Screenshots](#screenshots)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## About
@@ -36,3 +33,7 @@ This project fetches data from the Star Wars API (SWAPI) to display information 
 
    ```bash
    git clone <repository-url>
+
+## Contact
+
+chire14vramirthy@gmail.com
