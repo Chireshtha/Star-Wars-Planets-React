@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Chireshtha.github.io/Star_War_Planets/static/css/main.64b0c434.css",
+    "main.js": "/Chireshtha.github.io/Star_War_Planets/static/js/main.693511e2.js",
+    "static/js/453.a8a94dab.chunk.js": "/Chireshtha.github.io/Star_War_Planets/static/js/453.a8a94dab.chunk.js",
+    "static/media/Milkeyway.gif": "/Chireshtha.github.io/Star_War_Planets/static/media/Milkeyway.af46bccbcf445af49ad1.gif",
+    "index.html": "/Chireshtha.github.io/Star_War_Planets/index.html",
+    "main.64b0c434.css.map": "/Chireshtha.github.io/Star_War_Planets/static/css/main.64b0c434.css.map",
+    "main.693511e2.js.map": "/Chireshtha.github.io/Star_War_Planets/static/js/main.693511e2.js.map",
+    "453.a8a94dab.chunk.js.map": "/Chireshtha.github.io/Star_War_Planets/static/js/453.a8a94dab.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64b0c434.css",
+    "static/js/main.693511e2.js"
+  ]
+}
