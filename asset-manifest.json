@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Chireshtha.github.io/Star-Wars-Planets-React/static/css/main.6e939cb7.css",
-    "main.js": "/Chireshtha.github.io/Star-Wars-Planets-React/static/js/main.dca4623e.js",
-    "static/js/453.a8a94dab.chunk.js": "/Chireshtha.github.io/Star-Wars-Planets-React/static/js/453.a8a94dab.chunk.js",
-    "static/media/Milkeyway.gif": "/Chireshtha.github.io/Star-Wars-Planets-React/static/media/Milkeyway.af46bccbcf445af49ad1.gif",
-    "index.html": "/Chireshtha.github.io/Star-Wars-Planets-React/index.html",
-    "main.6e939cb7.css.map": "/Chireshtha.github.io/Star-Wars-Planets-React/static/css/main.6e939cb7.css.map",
-    "main.dca4623e.js.map": "/Chireshtha.github.io/Star-Wars-Planets-React/static/js/main.dca4623e.js.map",
-    "453.a8a94dab.chunk.js.map": "/Chireshtha.github.io/Star-Wars-Planets-React/static/js/453.a8a94dab.chunk.js.map"
+    "main.css": "/Chireshtha.github.io/React_Star_Wars_Planets/static/css/main.117c7be4.css",
+    "main.js": "/Chireshtha.github.io/React_Star_Wars_Planets/static/js/main.36543053.js",
+    "static/js/453.a8a94dab.chunk.js": "/Chireshtha.github.io/React_Star_Wars_Planets/static/js/453.a8a94dab.chunk.js",
+    "static/media/Milkeyway.gif": "/Chireshtha.github.io/React_Star_Wars_Planets/static/media/Milkeyway.af46bccbcf445af49ad1.gif",
+    "index.html": "/Chireshtha.github.io/React_Star_Wars_Planets/index.html",
+    "main.117c7be4.css.map": "/Chireshtha.github.io/React_Star_Wars_Planets/static/css/main.117c7be4.css.map",
+    "main.36543053.js.map": "/Chireshtha.github.io/React_Star_Wars_Planets/static/js/main.36543053.js.map",
+    "453.a8a94dab.chunk.js.map": "/Chireshtha.github.io/React_Star_Wars_Planets/static/js/453.a8a94dab.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.6e939cb7.css",
-    "static/js/main.dca4623e.js"
+    "static/css/main.117c7be4.css",
+    "static/js/main.36543053.js"
   ]
 }
