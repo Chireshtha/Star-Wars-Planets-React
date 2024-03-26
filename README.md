@@ -32,7 +32,7 @@ This project fetches data from the Star Wars API (SWAPI) to display information 
 1. Clone the repository:
 
    ```bash
-   git clone <repository-url>
+   git clone <https://chireshtha.github.io/React_Star_Wars_Planets/>
 
 ## Contact
 
